@@ -1,6 +1,6 @@
 # Environmental Modeling
 
-This repository contains lecture materials, assignments, and resources for the Environmental Modeling course. The course focuses on various aspects of modeling in environmental science, including introduction to modeling, sensitivity analysis, dynamic models, disturbance modeling, stability analysis, and optimization.
+This repository contains lecture materials and resources for the Environmental Modeling course. The course focuses on various aspects of modeling in environmental science, including introduction to modeling, sensitivity analysis, dynamic models, disturbance modeling, stability analysis, and optimization.
 
 ## Modules
 
