@@ -4,7 +4,6 @@ This repository contains lecture materials, assignments, and resources for the E
 
 ## Modules
 
-```markdown
 - **Pre-Lecture - Week 1**
   - Assignment: Pre-class assignment
   - Quiz: Getting to know you
